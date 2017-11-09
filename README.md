@@ -1,2 +1,2 @@
-# k-meansImplementation
-Proposal of Research and its Literature Review
+# KmeansClusteringImplementation
+Proposal for Research and its Literature Review
